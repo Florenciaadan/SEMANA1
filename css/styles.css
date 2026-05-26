@@ -1,0 +1,49 @@
+/* 
+
+
+
+COMO TRABAJAMOS CON CSS
+selector {
+  propiedad: valor;
+} */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Ol+Chiki:wght@400..700&display=swap');
+
+body{
+  font-family: "Noto Sans Ol Chiki", sans-serif;
+}
+
+/* RESETEO con selector universal, aplica estilos a cada uno de los elementos de los html se recomienda solo para reseteo  */
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+
+img {
+  width: 200px;
+}
+
+.logo{
+  width: 70px;
+}
+
+.tipografiaMedia{
+  font-size: 20px;
+  color: rgb(170, 35, 91);
+}
+
+.bgOrange{
+  background-color: rgb(122, 81, 3);
+}
+
+.tipografiaMediaCursos{
+  color: brown;
+}
+
+.pruebaletra{
+  font-family: "Noto Sans Ol Chiki", sans-serif;
+  color: blueviolet;
+}

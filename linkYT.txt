@@ -1,0 +1,8 @@
+VIDEO DE YOUTUBE PARA ENCONTRAR IFRAME (no copiar este link en el html): https://youtu.be/RuOnpGpfZm8?si=cM7EXWM4-bzbYKoN
+
+Como insertar iframe:
+1-ir a pagina de YOUTUBE
+2-Buscar boton "Compartir" 
+3-Clickear boton <Incorporar>
+4-Copiar iframe (hay un boton al final o pintar y copiar todo el codigo)
+5-Pegar en el html directamente (ya esta incorporada la etiqueta html que le corresponde)
